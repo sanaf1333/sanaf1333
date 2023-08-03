@@ -19,7 +19,7 @@ I'm Sana Fatima!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" height="45"/>                    
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sanaf1333=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 <!--
 **sanaf1333/sanaf1333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
