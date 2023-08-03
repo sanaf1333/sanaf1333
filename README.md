@@ -20,8 +20,7 @@ I'm Sana Fatima!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" height="45"/>                    
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=sanaf1333&show_icons=true&theme=radical" alt="GitHub Readme Stats">
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanaf1333&layout=compact&theme=radical" alt="Top Languages">
 
 [![GitHub followers](https://img.shields.io/github/followers/sanaf1333?style=social)](https://github.com/sanaf1333)
 
