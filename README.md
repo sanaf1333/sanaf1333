@@ -19,7 +19,8 @@ I'm Sana Fatima!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" height="45"/>                    
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanaf1333&theme=dark&show_icons=true)
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=sanaf1333&show_icons=true&theme=radical)
+
 
 [![GitHub followers](https://img.shields.io/github/followers/sanaf1333?style=social)](https://github.com/sanaf1333)
 
