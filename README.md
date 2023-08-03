@@ -23,9 +23,6 @@ I'm Sana Fatima!
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanaf1333&layout=compact&theme=radical" alt="Top Languages">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanaf1333&theme=radical" alt="GitHub Streak">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sanaf1333&layout=compact&theme=radical" alt="Wakatime Week Stats">
-<img src="https://img.shields.io/endpoint?url=https://wakatime.com/api/v1/users/current/stats/last_7_days&style=flat" alt="Wakatime Week Stats">
-
-[![GitHub followers](https://img.shields.io/github/followers/sanaf1333?style=social)](https://github.com/sanaf1333)
 
 <!--
 **sanaf1333/sanaf1333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
